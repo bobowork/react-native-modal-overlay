@@ -1,5 +1,3 @@
-import Overlay from ".";
-
-declare module 'react-native-modal-overlay' {
-    export default Overlay
+declare module 'react-native-modal-overlay'{
+    export default class Overlay{}
 }
