@@ -1,2 +1,5 @@
+import * as React from "react";
 declare module 'react-native-modal-overlay';
-export default class Overlay{}
+declare class OverlayComponent extends React.Component<any> {}
+declare const Overlay: OverlayComponent
+export = Overlay
