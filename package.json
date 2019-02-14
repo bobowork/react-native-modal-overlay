@@ -25,6 +25,7 @@
     "react-native": "*"
   },
   "author": "rgabs",
+  "types": "index.d.ts",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rgabs/react-native-modal-overlay.git/issues"
